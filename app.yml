@@ -1,0 +1,4 @@
+name: app
+user:
+    username: demo_default
+    password: password_default
