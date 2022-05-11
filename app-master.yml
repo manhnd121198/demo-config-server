@@ -1,1 +1,4 @@
-name: master
+name: app
+user:
+    username: demo
+    password: password
